@@ -1,0 +1,7 @@
+D:\Assignment\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe.config
+D:\Assignment\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+D:\Assignment\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+D:\Assignment\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csprojAssemblyReference.cache
+D:\Assignment\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+D:\Assignment\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+D:\Assignment\CourseManagement\CourseManagement\obj\Debug\CourseManagement.pdb
